@@ -1,3 +1,4 @@
+import { roll } from '../index.js';
 export const Dice = (props) => {
   const { side } = props;
 
